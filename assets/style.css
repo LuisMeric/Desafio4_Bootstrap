@@ -1,0 +1,50 @@
+header {
+
+    padding-right: 2rem;
+    padding-left: 2rem;
+}
+
+header a {
+    text-align: end;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+
+
+
+.card p {
+
+    font-family: 'Roboto', sans-serif;
+    color: grey;
+
+
+}
+
+.card h5 {
+
+    text-align: center;
+}
+
+footer {
+
+    font-family: 'Roboto', sans-serif;
+}
+
+.row {
+
+    border-top: solid 1px; 
+    color: black;
+
+}
+
+.price p {
+
+    text-align: center;
+}
+
+li {
+
+    list-style: none;
+    color: gray;
+}
